@@ -12,4 +12,5 @@ class GymApplication : Application() {
         super.onCreate()
         container = DefaultAppContainer(this)
     }
+
 }
